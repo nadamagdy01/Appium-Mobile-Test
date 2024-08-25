@@ -1,1 +1,0 @@
-{"uuid":"013d68d7-9f95-4acb-9cf4-1401a4cfbbdc","name":"com.jetflix.TestBase.setup","children":["0734605a-dec0-445a-b6c9-f8cebf020c62"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724589542387,"stop":1724589547568}],"afters":[],"start":1724589542387,"stop":1724589547568}

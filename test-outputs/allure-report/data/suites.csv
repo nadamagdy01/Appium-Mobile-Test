@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","5864","testMovieNameVerification","Regression Suite","Sun Aug 25 15:38:55 EEST 2024","passed","Sun Aug 25 15:39:01 EEST 2024","com.jetflix.MovieNameTest","Regression Test","com.jetflix.MovieNameTest","testMovieNameVerification"
-"","8040","testReleaseDateFilter","Regression Suite","Sun Aug 25 15:39:07 EEST 2024","passed","Sun Aug 25 15:39:15 EEST 2024","com.jetflix.FutureDateTest","Regression Test","com.jetflix.FutureDateTest","testReleaseDateFilter"

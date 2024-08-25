@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.jetflix.MovieNameTest"/>
+            <class name="com.jetflix.FutureDateTest"/>
+        </classes>
+    </test>
+</suite>

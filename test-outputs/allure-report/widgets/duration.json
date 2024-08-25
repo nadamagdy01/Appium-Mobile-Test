@@ -1,0 +1,1 @@
+[{"uid":"342f26bbe712d0ab","name":"testMovieNameVerification","time":{"start":1724589535914,"stop":1724589541778,"duration":5864},"status":"passed","severity":"normal"},{"uid":"242de99c5395e8f0","name":"testReleaseDateFilter","time":{"start":1724589547595,"stop":1724589555635,"duration":8040},"status":"passed","severity":"normal"}]

@@ -48,55 +48,53 @@ Both scenarios are automated using Appium for mobile automation, Java as the pro
    git clone https://github.com/nadamagdy01/Appium-Mobile-Test/tree/master 
 
 ### Step-by-Step Instructions
+
 #### Clone the Repository:
-
 Clone the project repository from the source control platform to your local machine.
-bash
-Copy code
 git clone <https://github.com/nadamagdy01/Appium-Mobile-Test/tree/master>
-Setup Project in IntelliJ IDEA:
 
-#### Open IntelliJ IDEA.
+#### Setup Project in IntelliJ IDEA:
+Open IntelliJ IDEA.
 Import the project as a Maven project.
 Ensure that all necessary dependencies are specified in the pom.xml file and are properly resolved.
-Configure Appium:
 
-#### Launch the Appium Server.
+#### Configure Appium:
+Launch the Appium Server.
 Configure the desired capabilities for the Jetflix application in your test scripts.
 Ensure that the Appium Server is running on the default port (4723) or configure the port as required.
 
 #### Connect Device using Vysor:
-
 Launch Vysor and connect your mobile device.
 Ensure the device is detected and accessible via Vysor.
-Appium Inspector:
 
-#### Open Appium Inspector.
+#### Appium Inspector:
+Open Appium Inspector.
 Configure the desired capabilities for the Jetflix app.
 Inspect the application to generate and verify locator strategies.
-Run Tests:
 
-#### Open a terminal or command prompt.
+#### Run Tests:
+Open a terminal or command prompt.
 Navigate to the project directory.
-Run the tests using Maven:
-bash
-Copy code
-mvn test
-Verify Execution:
 
-#### Check the test reports generated in the target/surefire-reports directory.
-#### Review the demo video for test execution if available.
+#### Run the tests using Maven:
+mvn test
+
+#### Verify Execution:
+Check the test reports generated in the target/surefire-reports directory.
+Review the demo video for test execution if available.
 
 
 # Scenarios
 ## Scenario 1: Verify Movie Name Consistency
 Objective: Ensure that the movie name displayed on the home screen matches the movie name on the movie details screen.
+
 ### Steps:
 Write a generic method to click on any movie name.
 Write a generic method to retrieve the movie name from the screen.
 Assert that the retrieved movie name matches the movie name on the details screen.
 ## Scenario 2: Verify Future Release Date Filter
 Objective: Ensure that movies listed after applying the release date filter are in the future.
+
 ### Steps:
 Click on the menu filter.
 Choose the release date filter.

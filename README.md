@@ -45,7 +45,7 @@ Both scenarios are automated using Appium for mobile automation, Java as the pro
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/nadamagdy01/Appium-Mobile-Test/tree/master 
 
 ### Step-by-Step Instructions
 #### Clone the Repository:

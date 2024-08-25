@@ -9,7 +9,6 @@ This README file provides a detailed guide to setting up, running, and understan
 4. [Scenario 1: Movie Name Verification](#scenario-1-movie-name-verification)
 5. [Scenario 2: Release Date Filter Verification](#scenario-2-release-date-filter-verification)
 6. [Deliverables](#deliverables)
-Deliverables
 
 ## Project Overview
 
